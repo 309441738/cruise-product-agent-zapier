@@ -1,0 +1,10 @@
+{
+  "title": "cruise-product-agent",
+  "description": "智能助手为您提供邮轮产品的快速查询服务，随时随地获取信息。",
+  "version": "1.0.0",
+  "platformVersion": "15.0.0",
+  "published_with": "craftwave",
+  "authentication": {
+    "type": "oauth2"
+  }
+}
