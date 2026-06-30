@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.309441738/cruise-product-agent",
+  "description": "智能助手为您提供邮轮产品的快速查询服务，随时随地获取信息。",
+  "version": "0.1.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://cruise-mcp.olavacations.com/api/gw/mcp/1d740d9a-a5db-4582-a429-98290ea2981e"
+    }
+  ]
+}
